@@ -1,0 +1,14 @@
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\obj\Debug\net8.0\week9sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\obj\Debug\net8.0\week9sandbox.AssemblyInfoInputs.cache
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\obj\Debug\net8.0\week9sandbox.AssemblyInfo.cs
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\obj\Debug\net8.0\week9sandbox.csproj.CoreCompileInputs.cache
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\bin\Debug\net8.0\week9sandbox.exe
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\bin\Debug\net8.0\week9sandbox.deps.json
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\bin\Debug\net8.0\week9sandbox.runtimeconfig.json
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\bin\Debug\net8.0\week9sandbox.dll
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\bin\Debug\net8.0\week9sandbox.pdb
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\obj\Debug\net8.0\week9sandbox.dll
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\obj\Debug\net8.0\refint\week9sandbox.dll
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\obj\Debug\net8.0\week9sandbox.pdb
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\obj\Debug\net8.0\week9sandbox.genruntimeconfig.cache
+C:\Users\bbogo\OneDrive\Desktop\Fall 24\week9sandbox\week9sandbox\obj\Debug\net8.0\ref\week9sandbox.dll
